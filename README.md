@@ -1,5 +1,5 @@
 # Project Scope
-The scope of this project is to compare execution time for an application execute with JVM vs compiled to a native image using GraalVM.
+The scope of this project is to compare execution time for an application executed with JVM vs compiled to a native image using GraalVM.
 Project contains a simple Spring Boot application with one Controller + one endpoint.
 
 # Installing GraalVM (using SDKMan)
